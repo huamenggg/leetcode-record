@@ -1,3 +1,5 @@
+[TOC]
+
 ## 100. Same Tree
 
 #### 1. Recursion (my solution)
